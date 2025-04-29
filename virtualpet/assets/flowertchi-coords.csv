@@ -1,0 +1,13 @@
+label,x,y,pairedLabel
+general1,20,15,general2
+general2,64,15,general1
+happy,45,66,no
+sad,45,162,no
+badFood,43,546,no
+bath1,262,209,bath2
+bath2,316,209,bath1
+bed1,320,254,bed2
+bed2,263,254,bed1
+eating1,18,305,eating2
+eating2,62,305,eating1
+maracas,546,539,no
