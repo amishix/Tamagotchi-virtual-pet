@@ -1,7 +1,5 @@
 /**
  * By Amishi Sharma 2024
- * Extending Corey Ford 2024
- * Extending BITPRINT (Evan Raskob) 2023
  * All rights reserved
  */
 
