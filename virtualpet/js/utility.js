@@ -1,5 +1,4 @@
 /**
- * By Corey Ford 2024
  * All rights reserved
  */
 
