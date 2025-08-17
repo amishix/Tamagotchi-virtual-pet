@@ -1,11 +1,6 @@
 # Virtual Pet Game
 by Amishi Sharma 2025
 
-by Corey Ford 2024
-
-extending a template for p5js by Evan Raskob 2023
-
-
 # Assignment Info
 
 Assignment completed by: Amishi Sharma 20/01/2025
