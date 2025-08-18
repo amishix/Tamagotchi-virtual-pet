@@ -95,5 +95,5 @@ Then visit:
 ## Credits  
 - **Sprite Sheet:** [MasterPengo](https://www.spriters-resource.com/fullview/112593/)  
 - **Music Inspiration:** *Charli XCX – Brat (2024)*  
-"""
+
 
