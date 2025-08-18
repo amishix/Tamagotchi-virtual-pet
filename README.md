@@ -1,4 +1,4 @@
-"""# Virtual Pet Game (Flowertchi)
+## Virtual Pet Game (Tamagotchi)
 *by Amishi Sharma – 2025*  
 
 A **Tamagotchi-inspired virtual pet game** built with JavaScript, where you care for a digital creature by feeding it, letting it sleep, keeping it clean, and interacting through animations and sound. The project reimagines the nostalgic Tamagotchi experience with modern web technologies, interactive controls, and a personalised audiovisual design.
@@ -8,12 +8,6 @@ A **Tamagotchi-inspired virtual pet game** built with JavaScript, where you care
 ## Inspiration & Sound Design  
 
 For the soundtrack I integrated a **Brat-inspired theme**, influenced by Charli XCX’s 2024 album *Brat*. The choice of this soundscape was intentional: the album’s bold, glitchy, and playful electronic textures align with the experimental and vibrant aesthetic of this project. By incorporating music as part of the interaction (triggered with the `B` and `T` keys), I wanted to mirror how Charli’s work pushes boundaries between mainstream and experimental pop, creating a similar boundary-breaking atmosphere in this virtual pet. Technically, this was achieved with the **p5.sound library**, enabling playback control, event-driven audio responses, and seamless looping within the browser environment.
-
----
-
-## Assignment Info  
-- **Author:** Amishi Sharma  
-- **Completed On:** 20/01/2025  
 
 ---
 
